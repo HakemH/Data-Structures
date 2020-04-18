@@ -1,0 +1,21 @@
+9 jhummel2@uic.edu Question about grading...
+10 coupons@bestbuy.com This week only: free TV with purchase
+15 pooja@piazza.com Please update profile
+16 abcd@uic.edu This is not spam, seriously, not spam
+17 adef@uic.edu This is also not spam, seriously, spam it is not
+21 reed@uic.edu Can you help?
+22 offers@bestbuy.com Please buy more stuff!
+23 techsupport@bestbuy.com Please update your profile
+33 user@xyz.com Important msg frm user
+41 user1@xyz.com A really non-important msg
+42 user1@xyzz.com Seriously, this one is important
+43 reseller@groupon.com Yup, you got me, spam
+99 fred@massemail.com you'll like this offer
+121 jon@groupon.com Please update your pwd
+123 sue@groupons.com You can't miss this deal
+155 chancellor@uic.edu Just kidding
+198 accc@uic.edu VPN is now operational
+199 accc@uic.edu VPN is down
+254 important@uic.edu Tuition waivers for all!
+260 rewards@uic.edu Subway sandwiches free every friday
+261 testing@uic.edu Testing

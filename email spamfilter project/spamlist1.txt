@@ -1,0 +1,12 @@
+aaa.com:user
+bestbuy.com:coupons
+bestbuy.com:offers
+groupon.com:*
+groupon.com:reseller
+important.com:dont_ignore
+massemail.com:*
+organicfoods.com:noreply
+uic.edu:accc
+uic.edu:chancellor
+uic.edu:rewards
+xyz.com:user1
